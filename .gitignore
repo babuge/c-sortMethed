@@ -1,0 +1,8 @@
+# localtion file
+save_array.txt
+# library
+bin/
+obj/
+# compile
+*.cbp
+*.o
