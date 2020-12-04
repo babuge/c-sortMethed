@@ -4,4 +4,4 @@
   Console Application for window & linux, c language  
   
   #### task  
-  How long does it take to sort the array  
+  专门测试无序的数组在不同方法下排序时间
